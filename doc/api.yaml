@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: React engLang
-  description: a backend part "engLang" app 
+  description: backend part "engLang" app 
   version: 1.0.0
 
 servers:
